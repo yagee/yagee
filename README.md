@@ -15,6 +15,9 @@
   <li>
     <a href="https://pauser.ydot.ru/" target="_blank">Video pauser</a>
   </li>
+  <li>
+    <a href="https://yalutmuzey-poster-generator.netlify.app/" target="_blank">Museum poster generator</a>
+  </li>
 </ul>
 
 <!--<h3 align="left">Connect with me:</h3>

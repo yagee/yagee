@@ -1,3 +1,5 @@
+[![Telegram](https://img.shields.io/badge/yagee-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/yagee) [![wakatime](https://wakatime.com/badge/user/49414914-9ef6-458a-b15c-feb527a44bbd.svg)](https://wakatime.com/@49414914-9ef6-458a-b15c-feb527a44bbd)
+
 <h1 align="center">Hi 👋, I'm Roman</h1>
 <h3 align="center">A passionate frontend developer</h3>
 

@@ -31,4 +31,10 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yagee&show_icons=true&locale=en&layout=compact" alt="yagee" /></p>
 
+<h3>Latest experiments</h3>
+<ul>
+  <li>glances</li>
+  <li>goaccess</li>
+</ul>
+
 <p>щддфьф</p>
